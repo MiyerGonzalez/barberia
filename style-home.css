@@ -1,0 +1,58 @@
+.titulo-principal{
+	padding-left: 30px; 
+	
+}
+
+#imagenObituary{
+	width: 100%;
+}
+
+.divprincipal{
+	background: #cccccc;
+	padding: 20px;
+}
+
+.titulo-centralizado{
+	text-align: center;
+	height: 150px;
+	border: 10px solid #000000;
+	margin-top: 40px;
+}
+
+p {
+	text-align: center;
+	background: #cccccc;
+}
+
+
+em strong{
+	color: red;
+}
+
+#mision{
+	font-size: 20px;
+}
+
+.features{
+	background: #ffffff;
+	padding: 30px;
+}
+
+h2{
+	text-align: center;
+}
+
+.items{
+	font-style: italic;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.imageFeature{
+	width: 25%;
+}
+
